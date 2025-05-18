@@ -1,2 +1,2 @@
 # algorithm-1
-coursera alogo part 1
+coursera algo part 1
